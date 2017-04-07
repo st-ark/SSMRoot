@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DataAccess" target="1.7" />
-      <module name="SSMRoot" target="1.7" />
-      <module name="WebApp" target="1.7" />
+      <module name="DataAccess" target="1.5" />
+      <module name="SSMRoot" target="1.5" />
+      <module name="WebApp" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
